@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectDictionaryState">
-    <dictionary name="boss" />
-  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -29,26 +26,6 @@
     </entry>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Virtual Python3.4 Environment" project-jdk-type="Python SDK" />
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings is-module-sdk="true">
-        <envs>
-          <env key="" value="" />
-        </envs>
-        <option name="myUseModuleSdk" value="true" />
-        <option name="myEnvs">
-          <map>
-            <entry key="" value="" />
-          </map>
-        </option>
-      </console-settings>
-    </option>
-    <option name="myShowDebugConsoleByDefault" value="true" />
-  </component>
-  <component name="PyDebuggerOptionsProvider">
-    <option name="mySaveCallSignatures" value="true" />
-    <option name="mySupportGeventDebugging" value="true" />
-  </component>
   <component name="masterDetails">
     <states>
       <state key="ScopeChooserConfigurable.UI">
